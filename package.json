@@ -1,0 +1,14 @@
+{
+  "name": "vue-2-7-issue-typed-emit",
+  "version": "1.0.0",
+  "scripts": {
+    "compile": "tsc --project ./tsconfig.json --noEmit"
+  },
+  "author": "Vincent Dallaire <vincent.dallaire@dti.ulaval.ca>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "vue": "^2.7.4",
+    "vue-class-component": "^7.2.6"
+  }
+}
